@@ -1,0 +1,72 @@
+*{
+    margin: 0%;
+}
+.page-wrapper{
+    width: 98.5%;
+    border: 2px double black;
+    padding-bottom: 1%;
+    margin:0.5%;
+}
+.second-page-wrapper{
+    width: 98%;
+    border: 1px solid red;
+    padding-bottom:1%;
+    margin: auto;
+    margin-top: 1%;
+}
+.top-contain{
+    width: 95.5%;
+    border: 1px solid skyblue;
+    margin: auto;
+    margin-top: 1%;
+}
+.top-contain-box{
+    width: 90%;
+    background-color: green;
+    padding-bottom: 4%;
+    margin-left: 5%;
+    overflow: hidden;
+}
+.box1{
+    width: 43%;
+    background-color: rgb(68, 64, 133);
+    padding-bottom:4%;
+    margin-top: 5%;
+    float: left;
+    overflow: hidden;
+}
+.inside-box1{
+    width: 35%;
+    background-color: peru;
+    padding-bottom:14%;
+    overflow: hidden;
+    margin-top: 10%;
+    box-sizing: border-box;
+    float: left;
+}
+.inside-box2{
+    width: 35%;
+    background-color: rgb(14, 35, 129);
+    padding-bottom:14%;
+    overflow: hidden;
+    margin-top: 10%;
+    box-sizing: border-box;
+    float: right;  
+}
+.box2{
+    background-color:rgb(185, 64, 20);
+    float: right;
+    padding-bottom: 14%;
+}
+.button-box{
+    width:95.6%;
+    border: 1px solid red;
+   margin-left: 2%;
+   margin-top: 2%;
+}
+.bottom-color{
+    width: 90%;
+    padding-bottom: 20%;
+    background-color: green;
+    margin-left: 5%;
+}
